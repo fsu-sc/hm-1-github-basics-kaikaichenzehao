@@ -14,11 +14,12 @@ git status
 git add
 git commit
 ```
-The background color is <span style="color:#0969DA">#0969DA</span> and<span style="color:#000000">#000000</span> for dark mode.
-<span style="color:red">
-Is it in read?
-</span>
- 
+The background color is <code style="color:#0969DA">#0969DA</code> and<code style="color:#000000">#000000</code> for dark mode.
+$${\color{red}Is\space it \space in\space read?}$$
+<p>
+Quack quack
+<text style="color: red">ERROR</text>
+</p>
  List
 - George Washington
 * John Adams
