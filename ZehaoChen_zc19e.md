@@ -20,10 +20,12 @@ $${\color{red}Is\space it \space in\space read?}$$
 Quack quack
 <text style="color: red">ERROR</text>
 </p>
+
  List
+
 - George Washington
-* John Adams
-+ Thomas Jefferson
+- John Adams
+- Thomas Jefferson
 
 | Month    | Savings |
 | -------- | ------- |
